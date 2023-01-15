@@ -1,0 +1,68 @@
+
+Š
+java:S1104"RMake CHOICE a static final constant or non-public and provide accessors if needed.(Ê ò´ûÿÿÿÿ8ë¶‚ôÚ0HúRMINORZ
+CODE_SMELL
+‹	java:S116	"YRename this field "ASSOCIATETRACK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÀı–8òí±ŞÚ0HûRMINORZ
+CODE_SMELL
+Š
+java:S1104"WMake ASSOCIATEID a static final constant or non-public and provide accessors if needed.(ûÿ¬8òí±ŞÚ0HüRMINORZ
+CODE_SMELL
+	java:S116"^Rename this field "ASSOCIATEEXPERIENCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºË»t8òí±ŞÚ0HıRMINORZ
+CODE_SMELL
+š
+java:S1104"bMake DELETEASSOCIATEDETAILS a static final constant or non-public and provide accessors if needed.(÷µòÀıÿÿÿÿ8—êßÚ0HşRMINORZ
+CODE_SMELL
+ˆ
+java:S1104"PMake MENU a static final constant or non-public and provide accessors if needed.(ã‚ğšûÿÿÿÿ8—êßÚ0HÿRMINORZ
+CODE_SMELL
+…	java:S116"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ±é–8òí±ŞÚ0H€RMINORZ
+CODE_SMELL
+’
+java:S1104"`Make SHOWASSOCIATEDETAILS a static final constant or non-public and provide accessors if needed.(´Çà<8—êßÚ0HRMINORZ
+CODE_SMELL
+•
+java:S1104"bMake UPDATEASSOCIATEDETAILS a static final constant or non-public and provide accessors if needed.(«“Î8—êßÚ0H‚RMINORZ
+CODE_SMELL
+Œ
+java:S1104"TMake USERNAME a static final constant or non-public and provide accessors if needed.(ÕšıÙøÿÿÿÿ8òí±ŞÚ0HƒRMINORZ
+CODE_SMELL
+”
+java:S1104"aMake ENTERASSOCIATEDETAILS a static final constant or non-public and provide accessors if needed.(òõö¹8—êßÚ0H„RMINORZ
+CODE_SMELL
+	java:S116"XRename this field "ASSOCIATENAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÜŠ›øÿÿÿÿ8òí±ŞÚ0H…RMINORZ
+CODE_SMELL
+˜	java:S116
+"aRename this field "ASSOCIATEQUALIFICATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®§÷üÿÿÿÿ8òí±ŞÚ0H†RMINORZ
+CODE_SMELL
+ˆ	java:S116"VRename this field "ASSOCIATEID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÿ¬8òí±ŞÚ0H‡RMINORZ
+CODE_SMELL
+
+java:S1104	"ZMake ASSOCIATETRACK a static final constant or non-public and provide accessors if needed.(âÀı–8òí±ŞÚ0HˆRMINORZ
+CODE_SMELL
+	java:S116"_Rename this field "SHOWASSOCIATEDETAILS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Çà<8—êßÚ0H‰RMINORZ
+CODE_SMELL
+‘
+java:S1104"YMake ASSOCIATENAME a static final constant or non-public and provide accessors if needed.(ªÜŠ›øÿÿÿÿ8òí±ŞÚ0HŠRMINORZ
+CODE_SMELL
+†	java:S116"ORename this field "MENU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã‚ğšûÿÿÿÿ8—êßÚ0H‹RMINORZ
+CODE_SMELL
+‘
+java:S1104"_Make ASSOCIATEEXPERIENCE a static final constant or non-public and provide accessors if needed.(ºË»t8òí±ŞÚ0HŒRMINORZ
+CODE_SMELL
+š
+java:S1104
+"bMake ASSOCIATEQUALIFICATION a static final constant or non-public and provide accessors if needed.(®§÷üÿÿÿÿ8òí±ŞÚ0HRMINORZ
+CODE_SMELL
+Š	java:S116"SRename this field "USERNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕšıÙøÿÿÿÿ8òí±ŞÚ0HRMINORZ
+CODE_SMELL
+˜	java:S116"aRename this field "DELETEASSOCIATEDETAILS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷µòÀıÿÿÿÿ8—êßÚ0HRMINORZ
+CODE_SMELL
+ˆ	java:S116"QRename this field "CHOICE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê ò´ûÿÿÿÿ8ë¶‚ôÚ0HRMINORZ
+CODE_SMELL
+’	java:S116"`Rename this field "ENTERASSOCIATEDETAILS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òõö¹8—êßÚ0H‘RMINORZ
+CODE_SMELL
+‡
+java:S1104"TMake PASSWORD a static final constant or non-public and provide accessors if needed.(Ğ±é–8òí±ŞÚ0H’RMINORZ
+CODE_SMELL
+“	java:S116"aRename this field "UPDATEASSOCIATEDETAILS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«“Î8—êßÚ0H“RMINORZ
+CODE_SMELL

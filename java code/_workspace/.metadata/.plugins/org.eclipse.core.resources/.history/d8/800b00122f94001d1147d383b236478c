@@ -1,0 +1,104 @@
+package com.revature.model;
+import  com.revature.constant.*;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public interface AssociateDetails {
+	
+	static ArrayList<Associate> l=new ArrayList<Associate>();
+	public abstract void addDetails();
+	public abstract void listAssociateDetails();
+	public abstract void deleteAssociateaDetails();
+    public abstract void updateDetailsaDetails();
+}
+
+class Userdetails extends Associate implements AssociateDetails {
+	
+	Constant constant= new Constant();
+	Scanner scInt= new Scanner(System.in);
+	Scanner scString= new Scanner(System.in);
+
+//	ArrayList<Associate> l=new ArrayList<Associate>();
+    Menu menu= new Menu();
+	int choice;	
+	
+
+	public void addDetails() {
+		
+		System.out.println(constant.ENTERASSOCIATEDETAILS);
+		do {
+			
+			
+			
+			System.out.println(constant.ASSOCIATEID);
+			int Id =scInt.nextInt();
+			
+			System.out.println(constant.ASSOCIATENAME);
+			String Name =scString.nextLine();
+			
+			System.out.println(constant.ASSOCIATETRACK);
+			String Track=scString.nextLine().toUpperCase();
+			
+			if(Track.equals(AssociateTrack.JAVA.toString()) || Track.equals(AssociateTrack.MAINFRAME.toString()) || Track.equals(AssociateTrack.TEASTING.toString()) || Track.equals(AssociateTrack.DOTNET.toString()) ) {
+			    
+			}
+			else {
+				System.out.println("\nInvalid input please enter correct input ");
+			}
+			
+			System.out.println(constant.ASSOCIATEQUALIFICATION);
+			String Qualification = scString.nextLine();
+			
+			System.out.println(constant.ASSOCIATEEXPERIENCE);
+			String Experience =scString.nextLine();
+			
+			System.out.println("");
+			Associate a1=new Associate(Id,Name,Track,Qualification,Experience);
+			l.add(a1);
+			
+			int sizeoflist=l.size();
+			System.out.println("Number of Associates are :- "+sizeoflist);
+			System.out.println("\nIf you want to enter more data press - 1 :-");
+			choice =scInt.nextInt();
+		
+
+		}while(choice==1);
+	 			
+	}	
+		
+        public void listAssociateDetails() {
+//        	
+//        	for (Associate associate : l) {
+//    	    	System.out.println(associate);
+//                 }
+        	
+        	
+           System.out.println(constant.SHOWASSOCIATEDETAILS+ "\n");
+           
+           for (Associate associate : l) {
+		      System.out.println(constant.ASSOCIATEID +" "+ associate.getAssociateId());
+	          System.out.println(constant.ASSOCIATENAME + " "+ associate.getAssociateName());
+	          System.out.println(constant.ASSOCIATETRACK + " "+ associate.getAssociateTrack());
+		      System.out.println(constant.ASSOCIATEQUALIFICATION + " " + associate.getAssociateQualification());
+		      System.out.println(constant.ASSOCIATEEXPERIENCE +" "+ associate.getAssociateExperience()+"\n");
+		      System.out.println("------------------------------------------------------");
+		
+             }
+
+    } 	
+		
+		
+	public void deleteAssociateaDetails() {
+		
+	}
+	
+	public void updateDetailsaDetails() {
+		
+	}
+	
+	}
+	
+
+
+
+

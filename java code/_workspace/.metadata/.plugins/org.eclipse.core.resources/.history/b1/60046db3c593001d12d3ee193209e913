@@ -1,0 +1,18 @@
+package com.revature.constant;
+
+public class Constant {
+	
+	public String USERNAME;
+	public String PASSWORD;
+	public String ASSOCIATENAME= "\nEnter Your Associate Name :- ";
+	public String ASSOCIATEID = "\nEnter Associate Id :- ";
+	public String ASSOCIATETRACK = "\nEnter Associate Track :- ";
+	public String ASSOCIATEQUALIFICATION = "\nEnter Associate Qualification :- ";
+	public String ASSOCIATEEXPERIENCE = "\nEnter Associate Experience:-";
+    public String MENU="*********** MENU ***********\n";
+    public String ENTERASSOCIATEDETAILS ="*********** ENTER ASSOCIATE DETAILS ***********\n";
+    public String UPDATEASSOCIATEDETAILS = "********* UPDATE ASSOCIATE DETAILS ***********\n";
+    public String SHOWASSOCIATEDETAILS = " *********** SHOW ASSOCIATE DETAILS *************\n";
+    public String DELETEASSOCIATEDETAILS ="************ DELETE ASSOCIATE DETAILS ********** \n";
+    public String CHOICE = "\nEnter Your Choice :- ";
+}

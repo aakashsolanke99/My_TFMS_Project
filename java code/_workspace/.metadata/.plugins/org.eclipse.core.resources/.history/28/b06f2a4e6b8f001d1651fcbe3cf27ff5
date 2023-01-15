@@ -1,0 +1,21 @@
+package com.revature.util;
+
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+
+public class UtsToIst {
+
+	public static void main(String[] args) {
+		
+		
+		
+		LocalDateTime dt = LocalDateTime.now();
+		
+		DateTimeFormatter df = DateTimeFormatter.ofPattern("o dd-MM-yyyy");
+		
+		String myDate = dt.format(df);
+		System.out.println(myDate);
+		
+	}
+
+}

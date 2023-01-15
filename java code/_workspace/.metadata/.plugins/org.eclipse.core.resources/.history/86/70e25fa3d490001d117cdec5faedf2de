@@ -1,0 +1,47 @@
+package com.revature.model;
+
+public class Associate {
+
+	    private static int AssociateId;
+		private String AssociateName;
+		private enum AssociateTrack {
+			JAVA,
+			DOTNET,
+			MAINFRAME,
+			TESTING
+		}
+		private String AssociateQualification;
+		private int AssociateExperience;
+		
+		public Associate(String associate_name, String associate_qualification, int associate_experience) {
+			super();
+			Associate_name = associate_name;
+			Associate_qualification = associate_qualification;
+			Associate_experience = associate_experience;
+		}
+		public static int getAssociate_id() {
+			return Associate_id;
+		}
+		public static void setAssociate_id(int associate_id) {
+			Associate_id = associate_id;
+		}
+		public String getAssociate_name() {
+			return Associate_name;
+		}
+		public void setAssociate_name(String associate_name) {
+			Associate_name = associate_name;
+		}
+		public String getAssociate_qualification() {
+			return Associate_qualification;
+		}
+		public void setAssociate_qualification(String associate_qualification) {
+			Associate_qualification = associate_qualification;
+		}
+		public int getAssociate_experience() {
+			return Associate_experience;
+		}
+		public void setAssociate_experience(int associate_experience) {
+			Associate_experience = associate_experience;
+		}
+		
+}
