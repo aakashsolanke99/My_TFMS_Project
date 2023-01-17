@@ -1,8 +1,0 @@
-package com.revature.model;
-
-public enum AssociateTrack {
-	JAVA,
-	MAINFRAME,
-	TEATING,
-	DOTNET;
-}

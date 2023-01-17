@@ -1,71 +1,0 @@
-
-p	java:S106{"9Replace this use of System.out or System.err by a logger.(¬…×æøÿÿÿÿ8é¨¬£Û0HÀRMAJORZ
-CODE_SMELL
-ˆ	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á«×Êúÿÿÿÿ8ä–òâÚ0H­RMINORZ
-CODE_SMELL
-k	java:S106y"9Replace this use of System.out or System.err by a logger.(—ê­Ï8é¨¬£Û0H¾RMAJORZ
-CODE_SMELL
-p	java:S106v"9Replace this use of System.out or System.err by a logger.(ö¤şİÿÿÿÿÿ8é¨¬£Û0HÆRMAJORZ
-CODE_SMELL
-`	java:S108+")Either remove or fill this block of code.(æ×ëÿÿÿÿÿ8ÓÈØƒÛ0H›RMAJORZ
-CODE_SMELL
-j	java:S106z"9Replace this use of System.out or System.err by a logger.(ŸÍÓ8é¨¬£Û0H¿RMAJORZ
-CODE_SMELL
-l	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(»å¡’8é¨¬£Û0H½RMAJORZ
-CODE_SMELL
-ƒ	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÄĞÒ8ä–òâÚ0H¤RMINORZ
-CODE_SMELL
-k	java:S106}"9Replace this use of System.out or System.err by a logger.(ÃâÒº8æ¼ÿ£Û0H…RMAJORZ
-CODE_SMELL
-X	java:S131""Add a default case to this switch.(ğ¡‹ˆ8é¨¬£Û0HÃRCRITICALZ
-CODE_SMELL
-‘
-java:S2293
-"YReplace the type specification in this constructor call with the diamond operator ("<>").(€®Ô˜üÿÿÿÿ8üœµâÚ0H¢RMINORZ
-CODE_SMELL
-a
-java:S1751c"5Remove this "break" statement or make it conditional.(›ûä·8ÚÍÎÛ0HøRMAJORZBUG
-ƒ	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ß¢8ä–òâÚ0H§RMINORZ
-CODE_SMELL
-l	java:S106"9Replace this use of System.out or System.err by a logger.(êñ®©8é¨¬£Û0HÂRMAJORZ
-CODE_SMELL
-p	java:S106|"9Replace this use of System.out or System.err by a logger.(æ•ıÿÿÿÿ8é¨¬£Û0HÁRMAJORZ
-CODE_SMELL
-q	java:S106˜"9Replace this use of System.out or System.err by a logger.(úË‰†ùÿÿÿÿ8é¨¬£Û0H‚RMAJORZ
-CODE_SMELL
-o	java:S125Ì"<This block of commented-out lines of code should be removed.(ŠÄœ²8ûÁ“¡Û0H¨RMAJORZ
-CODE_SMELL
-‚	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øîx8ä–òâÚ0H˜RMINORZ
-CODE_SMELL
-ˆ	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åöƒğüÿÿÿÿ8ä–òâÚ0H·RMINORZ
-CODE_SMELL
-O
-java:S1116’"Remove this empty statement.( ŒÒ08 î¤Û0HŸRMINORZ
-CODE_SMELL
-d
-java:S2386
-",Move "l" to a class and lower its visibility(€®Ô˜üÿÿÿÿ8ç½Æ€Û0H²RMINORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(¹÷¤Èùÿÿÿÿ8¡ÿ¹£Û0HÛRMAJORZ
-CODE_SMELL
-
-java:S3776s"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ì‹§…ûÿÿÿÿ8ÆÚÒ¤Û0HŒRCRITICALZ
-CODE_SMELL
-O
-java:S1116"Remove this empty statement.( ŒÒ08ÆÚÒ¤Û0H˜RMINORZ
-CODE_SMELL
-l	java:S106¤"9Replace this use of System.out or System.err by a logger.(éÈ…8ÆÚÒ¤Û0HšRMAJORZ
-CODE_SMELL
-O
-java:S1116ª"Remove this empty statement.( ŒÒ08ÆÚÒ¤Û0H›RMINORZ
-CODE_SMELL
-q	java:S106°"9Replace this use of System.out or System.err by a logger.(š¼öùÿÿÿÿ8ÆÚÒ¤Û0HRMAJORZ
-CODE_SMELL
-U
-java:S1116²"Remove this empty statement.(çë­Úÿÿÿÿÿ8ÆÚÒ¤Û0HRMINORZ
-CODE_SMELL
-O
-java:S1116¶"Remove this empty statement.( ŒÒ08ÆÚÒ¤Û0H RMINORZ
-CODE_SMELL
-q	java:S106¹"9Replace this use of System.out or System.err by a logger.(©Ô¤Ëüÿÿÿÿ8ÆÚÒ¤Û0H¢RMAJORZ
-CODE_SMELL
