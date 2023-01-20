@@ -360,4 +360,325 @@ GO TO TFMS PAGE PRESS 1
   2023-01-20 12:44:03 INFO  Application:30 -            2.LOGIN 
   2023-01-20 12:44:03 INFO  Application:34 - 
 Enter your choice(1/2):-
+  2023-01-20 15:27:17 INFO  Application:25 - ==================================================
+  2023-01-20 15:27:17 INFO  Application:26 -                      TFMS                          
+  2023-01-20 15:27:17 INFO  Application:27 - ==================================================
+
+  2023-01-20 15:27:17 INFO  Application:29 -            1.REGISTER NEW USER
+  2023-01-20 15:27:17 INFO  Application:30 -            2.LOGIN 
+  2023-01-20 15:27:17 INFO  Application:34 - 
+Enter your choice(1/2):-
+  2023-01-20 15:27:22 INFO  AssociateDaoImp:33 - 
+########## ENTER LOGIN DETAILS ########### 
+  2023-01-20 15:27:28 INFO  AssociateDaoImp:38 - Enter your PASSWORD :-
+  2023-01-20 15:27:33 INFO  AssociateDaoImp:46 - 
+########### WELCOME ###########
+
+  2023-01-20 15:27:51 INFO  Application:50 - 
+GO TO TFMS PAGE PRESS 1
+  2023-01-20 15:27:54 INFO  Application:25 - ==================================================
+  2023-01-20 15:27:54 INFO  Application:26 -                      TFMS                          
+  2023-01-20 15:27:54 INFO  Application:27 - ==================================================
+
+  2023-01-20 15:27:54 INFO  Application:29 -            1.REGISTER NEW USER
+  2023-01-20 15:27:54 INFO  Application:30 -            2.LOGIN 
+  2023-01-20 15:27:54 INFO  Application:34 - 
+Enter your choice(1/2):-
+  2023-01-20 15:28:01 INFO  AssociateDaoImp:65 - 
+***********  NEW USER REGISTRATION   *************
+  2023-01-20 15:28:01 INFO  AssociateDaoImp:66 -       ENTER USERNAME :-
+  2023-01-20 15:28:11 INFO  AssociateDaoImp:68 -       ENTER PASSWORD
+  2023-01-20 15:28:16 INFO  AssociateDaoImp:70 - 
+    ENTER ROLL(Admin,Associate,Traine):-
+  2023-01-20 15:28:36 INFO  AssociateDaoImp:78 - NEW USER REGISTRATION sucessfullly
+  2023-01-20 15:28:36 INFO  Application:50 - 
+GO TO TFMS PAGE PRESS 1
+  2023-01-20 15:28:39 INFO  Application:25 - ==================================================
+  2023-01-20 15:28:39 INFO  Application:26 -                      TFMS                          
+  2023-01-20 15:28:39 INFO  Application:27 - ==================================================
+
+  2023-01-20 15:28:39 INFO  Application:29 -            1.REGISTER NEW USER
+  2023-01-20 15:28:39 INFO  Application:30 -            2.LOGIN 
+  2023-01-20 15:28:39 INFO  Application:34 - 
+Enter your choice(1/2):-
+  2023-01-20 15:28:42 INFO  AssociateDaoImp:33 - 
+########## ENTER LOGIN DETAILS ########### 
+  2023-01-20 15:28:54 INFO  AssociateDaoImp:38 - Enter your PASSWORD :-
+  2023-01-20 15:28:58 INFO  AssociateDaoImp:51 - 
+WRONG DETAILS INSERTED PLEASE PROVIDE CORRECT DETAILS 
+
+  2023-01-20 15:28:58 INFO  AssociateDaoImp:52 - Want to enter again press 1
+
+  2023-01-20 15:33:15 INFO  Application:25 - ==================================================
+  2023-01-20 15:33:15 INFO  Application:26 -                      TFMS                          
+  2023-01-20 15:33:15 INFO  Application:27 - ==================================================
+
+  2023-01-20 15:33:15 INFO  Application:29 -            1.REGISTER NEW USER
+  2023-01-20 15:33:15 INFO  Application:30 -            2.LOGIN 
+  2023-01-20 15:33:16 INFO  Application:34 - 
+Enter your choice(1/2):-
+  2023-01-20 15:33:26 INFO  AssociateDaoImp:65 - 
+***********  NEW USER REGISTRATION   *************
+  2023-01-20 15:33:26 INFO  AssociateDaoImp:66 -       ENTER USERNAME :-
+  2023-01-20 15:33:30 INFO  AssociateDaoImp:68 -       ENTER PASSWORD
+  2023-01-20 15:33:37 INFO  AssociateDaoImp:70 - 
+    ENTER ROLL(Admin,Associate,Traine):-
+  2023-01-20 15:35:02 INFO  AssociateDaoImp:78 - NEW USER REGISTRATION sucessfullly
+  2023-01-20 15:35:02 INFO  Application:50 - 
+GO TO TFMS PAGE PRESS 1
+  2023-01-20 15:35:14 INFO  Application:25 - ==================================================
+  2023-01-20 15:35:14 INFO  Application:26 -                      TFMS                          
+  2023-01-20 15:35:14 INFO  Application:27 - ==================================================
+
+  2023-01-20 15:35:14 INFO  Application:29 -            1.REGISTER NEW USER
+  2023-01-20 15:35:14 INFO  Application:30 -            2.LOGIN 
+  2023-01-20 15:35:14 INFO  Application:34 - 
+Enter your choice(1/2):-
+  2023-01-20 15:35:17 INFO  AssociateDaoImp:33 - 
+########## ENTER LOGIN DETAILS ########### 
+  2023-01-20 15:35:19 INFO  AssociateDaoImp:38 - Enter your PASSWORD :-
+  2023-01-20 15:35:23 INFO  AssociateDaoImp:46 - 
+########### WELCOME ###########
+
+  2023-01-20 15:35:31 INFO  Application:50 - 
+GO TO TFMS PAGE PRESS 1
+  2023-01-20 15:35:32 INFO  Application:25 - ==================================================
+  2023-01-20 15:35:32 INFO  Application:26 -                      TFMS                          
+  2023-01-20 15:35:32 INFO  Application:27 - ==================================================
+
+  2023-01-20 15:35:32 INFO  Application:29 -            1.REGISTER NEW USER
+  2023-01-20 15:35:32 INFO  Application:30 -            2.LOGIN 
+  2023-01-20 15:35:32 INFO  Application:34 - 
+Enter your choice(1/2):-
+  2023-01-20 15:35:34 INFO  Application:46 - Enter correct choice please
+  2023-01-20 15:35:34 INFO  Application:50 - 
+GO TO TFMS PAGE PRESS 1
+  2023-01-20 15:35:42 INFO  Application:25 - ==================================================
+  2023-01-20 15:35:42 INFO  Application:26 -                      TFMS                          
+  2023-01-20 15:35:42 INFO  Application:27 - ==================================================
+
+  2023-01-20 15:35:42 INFO  Application:29 -            1.REGISTER NEW USER
+  2023-01-20 15:35:42 INFO  Application:30 -            2.LOGIN 
+  2023-01-20 15:35:42 INFO  Application:34 - 
+Enter your choice(1/2):-
+  2023-01-20 16:12:18 INFO  Application:25 - ==================================================
+  2023-01-20 16:12:18 INFO  Application:26 -                      TFMS                          
+  2023-01-20 16:12:18 INFO  Application:27 - ==================================================
+
+  2023-01-20 16:12:18 INFO  Application:29 -            1.REGISTER NEW USER
+  2023-01-20 16:12:18 INFO  Application:30 -            2.LOGIN 
+  2023-01-20 16:12:18 INFO  Application:34 - 
+Enter your choice(1/2):-
+  2023-01-20 16:12:32 INFO  AssociateDaoImp:65 - 
+***********  NEW USER REGISTRATION   *************
+  2023-01-20 16:12:32 INFO  AssociateDaoImp:66 -       ENTER USERNAME :-
+  2023-01-20 16:12:42 INFO  AssociateDaoImp:68 -       ENTER PASSWORD
+  2023-01-20 16:12:49 INFO  AssociateDaoImp:70 - 
+    ENTER ROLL(Admin,Associate,Traine):-
+  2023-01-20 16:13:03 INFO  AssociateDaoImp:78 - NEW USER REGISTRATION sucessfullly
+  2023-01-20 16:13:03 INFO  Application:50 - 
+GO TO TFMS PAGE PRESS 1
+  2023-01-20 16:13:15 INFO  Application:25 - ==================================================
+  2023-01-20 16:13:15 INFO  Application:26 -                      TFMS                          
+  2023-01-20 16:13:15 INFO  Application:27 - ==================================================
+
+  2023-01-20 16:13:15 INFO  Application:29 -            1.REGISTER NEW USER
+  2023-01-20 16:13:15 INFO  Application:30 -            2.LOGIN 
+  2023-01-20 16:13:15 INFO  Application:34 - 
+Enter your choice(1/2):-
+  2023-01-20 16:13:25 INFO  AssociateDaoImp:33 - 
+########## ENTER LOGIN DETAILS ########### 
+  2023-01-20 16:13:33 INFO  AssociateDaoImp:38 - Enter your PASSWORD :-
+  2023-01-20 16:13:36 INFO  AssociateDaoImp:51 - 
+WRONG DETAILS INSERTED PLEASE PROVIDE CORRECT DETAILS 
+
+  2023-01-20 16:13:36 INFO  AssociateDaoImp:52 - Want to enter again press 1
+
+  2023-01-20 16:13:53 INFO  AssociateDaoImp:33 - 
+########## ENTER LOGIN DETAILS ########### 
+  2023-01-20 16:13:58 INFO  AssociateDaoImp:38 - Enter your PASSWORD :-
+  2023-01-20 16:14:03 INFO  AssociateDaoImp:51 - 
+WRONG DETAILS INSERTED PLEASE PROVIDE CORRECT DETAILS 
+
+  2023-01-20 16:14:03 INFO  AssociateDaoImp:52 - Want to enter again press 1
+
+  2023-01-20 16:14:55 INFO  Application:25 - ==================================================
+  2023-01-20 16:14:55 INFO  Application:26 -                      TFMS                          
+  2023-01-20 16:14:55 INFO  Application:27 - ==================================================
+
+  2023-01-20 16:14:55 INFO  Application:29 -            1.REGISTER NEW USER
+  2023-01-20 16:14:55 INFO  Application:30 -            2.LOGIN 
+  2023-01-20 16:14:55 INFO  Application:34 - 
+Enter your choice(1/2):-
+  2023-01-20 16:15:02 INFO  AssociateDaoImp:33 - 
+########## ENTER LOGIN DETAILS ########### 
+  2023-01-20 16:15:04 INFO  AssociateDaoImp:38 - Enter your PASSWORD :-
+  2023-01-20 16:15:12 INFO  AssociateDaoImp:46 - 
+########### WELCOME ###########
+
+  2023-01-20 16:22:14 INFO  TimeZoneConversion:26 - 
+Default Date:Fri Jan 20 16:22:14 IST 2023
+  2023-01-20 16:22:14 INFO  TimeZoneConversion:27 - 
+System Date: 20 Jan 2023 04:22:14 pm
+  2023-01-20 16:22:14 INFO  TimeZoneConversion:28 - 
+System Date in IST: 20 Jan 2023 04:22:14 pm
+  2023-01-20 16:22:14 INFO  TimeZoneConversion:29 - 
+System Date in UTC: 20 Jan 2023 10:52:14 am
+  2023-01-20 16:22:24 INFO  Application:25 - ==================================================
+  2023-01-20 16:22:24 INFO  Application:26 -                      TFMS                          
+  2023-01-20 16:22:24 INFO  Application:27 - ==================================================
+
+  2023-01-20 16:22:24 INFO  Application:29 -            1.REGISTER NEW USER
+  2023-01-20 16:22:24 INFO  Application:30 -            2.LOGIN 
+  2023-01-20 16:22:24 INFO  Application:34 - 
+Enter your choice(1/2):-
+  2023-01-20 16:22:40 INFO  AssociateDaoImp:65 - 
+***********  NEW USER REGISTRATION   *************
+  2023-01-20 16:22:40 INFO  AssociateDaoImp:66 -       ENTER USERNAME :-
+  2023-01-20 16:22:47 INFO  AssociateDaoImp:68 -       ENTER PASSWORD
+  2023-01-20 16:22:53 INFO  AssociateDaoImp:70 - 
+    ENTER ROLL(Admin,Associate,Traine):-
+  2023-01-20 16:23:14 INFO  AssociateDaoImp:78 - NEW USER REGISTRATION sucessfullly
+  2023-01-20 16:23:14 INFO  Application:50 - 
+GO TO TFMS PAGE PRESS 1
+  2023-01-20 16:23:21 INFO  Application:25 - ==================================================
+  2023-01-20 16:23:21 INFO  Application:26 -                      TFMS                          
+  2023-01-20 16:23:21 INFO  Application:27 - ==================================================
+
+  2023-01-20 16:23:21 INFO  Application:29 -            1.REGISTER NEW USER
+  2023-01-20 16:23:21 INFO  Application:30 -            2.LOGIN 
+  2023-01-20 16:23:21 INFO  Application:34 - 
+Enter your choice(1/2):-
+  2023-01-20 16:23:29 INFO  AssociateDaoImp:33 - 
+########## ENTER LOGIN DETAILS ########### 
+  2023-01-20 16:23:36 INFO  AssociateDaoImp:38 - Enter your PASSWORD :-
+  2023-01-20 16:23:39 INFO  AssociateDaoImp:46 - 
+########### WELCOME ###########
+
+  2023-01-20 16:24:14 INFO  AssociateDaoImp:31 - 
+*********** ENTER ASSOCIATE DETAILS ***********
+  2023-01-20 16:24:59 INFO  AssociateDaoImp:70 - RECORD INSERTED SUCCESFULLY 
+  2023-01-20 16:25:55 INFO  AssociateDaoImp:70 - RECORD INSERTED SUCCESFULLY 
+  2023-01-20 16:26:27 INFO  AssociateDaoImp:84 - 
+***********  ASSOCIATE DETAILS *************
+
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:61 - 
+***********  ASSOCIATE  *************
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:62 - Associate Id :- 1
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:63 - Associate Name :- Aakash Santosh Solanke
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:64 - Associate Track any one of this only (Java, Mainframe, Teasting, Dotnet):- mainframe
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:65 - Associate Qualification :- B-Tech
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:66 - Associate Experience:- 12
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:61 - 
+***********  ASSOCIATE  *************
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:62 - Associate Id :- 123
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:63 - Associate Name :- Swaraj Solanke
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:64 - Associate Track any one of this only (Java, Mainframe, Teasting, Dotnet):- java
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:65 - Associate Qualification :- btech
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:66 - Associate Experience:- 2
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:61 - 
+***********  ASSOCIATE  *************
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:62 - Associate Id :- 124
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:63 - Associate Name :- aakash
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:64 - Associate Track any one of this only (Java, Mainframe, Teasting, Dotnet):- testing
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:65 - Associate Qualification :- Mtech
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:66 - Associate Experience:- 3
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:61 - 
+***********  ASSOCIATE  *************
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:62 - Associate Id :- 2
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:63 - Associate Name :- krunal
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:64 - Associate Track any one of this only (Java, Mainframe, Teasting, Dotnet):- mainframe
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:65 - Associate Qualification :- M.Tech
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:66 - Associate Experience:- 1
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:61 - 
+***********  ASSOCIATE  *************
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:62 - Associate Id :- 3
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:63 - Associate Name :- swaraj
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:64 - Associate Track any one of this only (Java, Mainframe, Teasting, Dotnet):- testing
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:65 - Associate Qualification :- mtech
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:66 - Associate Experience:- 4
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:61 - 
+***********  ASSOCIATE  *************
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:62 - Associate Id :- 4
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:63 - Associate Name :- trunal
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:64 - Associate Track any one of this only (Java, Mainframe, Teasting, Dotnet):- testing
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:65 - Associate Qualification :- btech
+  2023-01-20 16:26:27 INFO  AssociateDaoMethodImpl:66 - Associate Experience:- 6
+  2023-01-20 16:26:27 INFO  AssociateDaoImp:92 - -------------------------------------------------------------
+  2023-01-20 16:26:58 INFO  AssociateDaoImp:98 - 
+***********  ASSOCIATE DETAILS *************
+
+  2023-01-20 16:27:05 INFO  AssociateDaoMethodImpl:85 - 
+***********  ASSOCIATE  *************
+  2023-01-20 16:27:05 INFO  AssociateDaoMethodImpl:86 - Associate Id :- 4
+  2023-01-20 16:27:05 INFO  AssociateDaoMethodImpl:87 - Associate Name :- trunal
+  2023-01-20 16:27:05 INFO  AssociateDaoMethodImpl:88 - Associate Track any one of this only (Java, Mainframe, Teasting, Dotnet):- testing
+  2023-01-20 16:27:05 INFO  AssociateDaoMethodImpl:89 - Associate Qualification :- btech
+  2023-01-20 16:27:05 INFO  AssociateDaoMethodImpl:90 - Associate Experience:- 6
+  2023-01-20 16:27:05 INFO  AssociateDaoImp:107 - -------------------------------------------------------------
+  2023-01-20 16:27:41 INFO  AssociateDaoMethodImpl:46 - com.mysql.cj.jdbc.CallableStatement: CALL Delete_Associate_details('4')
+  2023-01-20 16:27:41 INFO  AssociateDaoMethodImpl:47 - data deleted sucessful
+  2023-01-20 16:28:05 INFO  AssociateDaoImp:84 - 
+***********  ASSOCIATE DETAILS *************
+
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:61 - 
+***********  ASSOCIATE  *************
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:62 - Associate Id :- 1
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:63 - Associate Name :- Aakash Santosh Solanke
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:64 - Associate Track any one of this only (Java, Mainframe, Teasting, Dotnet):- mainframe
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:65 - Associate Qualification :- B-Tech
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:66 - Associate Experience:- 12
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:61 - 
+***********  ASSOCIATE  *************
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:62 - Associate Id :- 123
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:63 - Associate Name :- Swaraj Solanke
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:64 - Associate Track any one of this only (Java, Mainframe, Teasting, Dotnet):- java
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:65 - Associate Qualification :- btech
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:66 - Associate Experience:- 2
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:61 - 
+***********  ASSOCIATE  *************
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:62 - Associate Id :- 124
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:63 - Associate Name :- aakash
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:64 - Associate Track any one of this only (Java, Mainframe, Teasting, Dotnet):- testing
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:65 - Associate Qualification :- Mtech
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:66 - Associate Experience:- 3
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:61 - 
+***********  ASSOCIATE  *************
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:62 - Associate Id :- 2
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:63 - Associate Name :- krunal
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:64 - Associate Track any one of this only (Java, Mainframe, Teasting, Dotnet):- mainframe
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:65 - Associate Qualification :- M.Tech
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:66 - Associate Experience:- 1
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:61 - 
+***********  ASSOCIATE  *************
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:62 - Associate Id :- 3
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:63 - Associate Name :- swaraj
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:64 - Associate Track any one of this only (Java, Mainframe, Teasting, Dotnet):- testing
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:65 - Associate Qualification :- mtech
+  2023-01-20 16:28:05 INFO  AssociateDaoMethodImpl:66 - Associate Experience:- 4
+  2023-01-20 16:28:05 INFO  AssociateDaoImp:92 - -------------------------------------------------------------
+  2023-01-20 16:28:59 INFO  AssociateDaoMethodImpl:108 - 
+Enter your choice:-
+  2023-01-20 16:29:22 INFO  AssociateDaoMethodImpl:120 - NAME UPDATED SUCCESSFUL
+  2023-01-20 16:29:52 INFO  AssociateDaoImp:98 - 
+***********  ASSOCIATE DETAILS *************
+
+  2023-01-20 16:29:57 INFO  AssociateDaoMethodImpl:85 - 
+***********  ASSOCIATE  *************
+  2023-01-20 16:29:57 INFO  AssociateDaoMethodImpl:86 - Associate Id :- 3
+  2023-01-20 16:29:57 INFO  AssociateDaoMethodImpl:87 - Associate Name :- Aakash
+  2023-01-20 16:29:57 INFO  AssociateDaoMethodImpl:88 - Associate Track any one of this only (Java, Mainframe, Teasting, Dotnet):- testing
+  2023-01-20 16:29:57 INFO  AssociateDaoMethodImpl:89 - Associate Qualification :- mtech
+  2023-01-20 16:29:57 INFO  AssociateDaoMethodImpl:90 - Associate Experience:- 4
+  2023-01-20 16:29:57 INFO  AssociateDaoImp:107 - -------------------------------------------------------------
+  2023-01-20 16:30:29 INFO  Application:50 - 
+GO TO TFMS PAGE PRESS 1
+  2023-01-20 16:30:36 INFO  Application:25 - ==================================================
+  2023-01-20 16:30:36 INFO  Application:26 -                      TFMS                          
+  2023-01-20 16:30:36 INFO  Application:27 - ==================================================
+
+  2023-01-20 16:30:36 INFO  Application:29 -            1.REGISTER NEW USER
+  2023-01-20 16:30:36 INFO  Application:30 -            2.LOGIN 
+  2023-01-20 16:30:36 INFO  Application:34 - 
+Enter your choice(1/2):-
   

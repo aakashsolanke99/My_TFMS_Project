@@ -42,7 +42,7 @@ public  class LoginImpl implements Login {
 			ResultSet rs = stms.executeQuery(Constant.SELECT_FROM_ASSOCIATE_LOGIN);
 			
 			if(rs.next()) {
-				if(username.equals(rs.getString(1)) && password.equals(rs.getString(2)) && (rs.getString(3).equals("associate"))) {
+				if(username.equals(rs.getString(1)) && password.equals(rs.getString(2)) &&  ((rs.getString(3)).equals("associate"))) {
 					logger.info(Constant.WELCOME);
 					m.showMenu();
 					
