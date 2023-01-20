@@ -22,9 +22,9 @@
 
 ## Get started using it
 
-In this projec I work on an Associate entity when I login as an associate then I am able to insert data from user i ask your to ensert  and after inserting data every Associate has Unique Associate Id, i am also able to update the data as per the Associate Id, Delete Data by using associate Id, in this we can show one Associate data or all Assocaite data As per requirement 
+In this project I work on an Associate usecase when login as an associate then I am able to insert data and after inserting data every Associate has Unique Associate Id, also able to update the data which is name, track, qualification,experience as per the associate Id, delete Data by using associate Id,we can also able to see data for one associate or many associate as per requirement 
 
 
 ## Usage of the project
 
-By capturing training feedback we can easily identify areas for future training and what changes to make to imporoved your program's effectiveness
+By capturing training feedback we can easily identify areas for future training and what changes to make to imporoved your program's effectiveness.
