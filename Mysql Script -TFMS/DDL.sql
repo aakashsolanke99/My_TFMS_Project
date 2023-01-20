@@ -13,11 +13,11 @@ USE TFMS;
 DROP TABLE IF EXISTS trainer;
 CREATE TABLE trainer
 (    
-    trainer_id INT PRIMARY KEY NOT NULL,
+    trainer_id VARCHAR(40) PRIMARY KEY NOT NULL,
     trainer_name VARCHAR(30),
     trainer_track ENUM('java','dotnet','mainframe','testing') NOT NULL,
     trainer_qualification VARCHAR(10),
-    trainer_experience INT
+    trainer_experience VARCHAR(20)
 );
 
 
@@ -25,22 +25,31 @@ CREATE TABLE trainer
 DROP TABLE IF EXISTS Associate;
 CREATE TABLE Associate
 (    
-    Associate_id INT PRIMARY KEY NOT NULL,
+    Associate_id VARCHAR(40) PRIMARY KEY NOT NULL,
     Associate_name VARCHAR(30),
     Associate_track ENUM('java','dotnet','mainframe','testing') NOT NULL,
     Associate_qualification VARCHAR(10),
-    Associate_experience INT
+    Associate_experience VARCHAR(20)
+    
 );
+select * from associate;
 
+DROP TABLE IF EXISTS associate_login;
+CREATE TABLE associate_login
+(
+user_name VARCHAR(20), 
+user_password VARCHAR(20), 
+user_rool VARCHAR(20) 
 
+);
 
 DROP TABLE IF EXISTS Batch;
 CREATE TABLE Batch
 (    
 	topic_name VARCHAR(30),
     training_duration INT,
-	trainer_id INT,
-    associate_id INT,
+	trainer_id VARCHAR(40),
+    associate_id VARCHAR(40),
     training_start_date DATE ,
     training_end_date DATE,
 	FOREIGN KEY (trainer_id ) REFERENCES trainer(trainer_id),
@@ -58,8 +67,8 @@ CREATE TABLE question_management
 DROP TABLE IF EXISTS capture_feedback;
 CREATE TABLE capture_feedback
 (
-   trainer_id INT,
-   associate_id INT,
+   trainer_id VARCHAR(40),
+   associate_id VARCHAR(40),
    topic_name VARCHAR(20),
    question_id VARCHAR(10),
    question_section ENUM('Instructor','Course Material','Learning Effectiveness','Environment','Job Impact') NOT NULL,
@@ -87,8 +96,6 @@ RENAME TABLE  new_trainer TO trainer;
 ALTER TABLE new_trainer
 DROP COLUMN EMAIL_ID;
 
-
- 
-
+ALTER TABLE associate MODIFY Associate_name INT(22); ------- By using MODIFY us can change the datatype of any attribute 
 
 

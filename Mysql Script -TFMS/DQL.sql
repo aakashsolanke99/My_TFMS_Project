@@ -46,3 +46,5 @@ WHERE ASSOCIATE_TRACK ='JAVA' HAVING associate_experience > 10;
 SELECT associate_name, associate_experience, ASSOCIATE_TRACK FROM ASSOCIATE 
 WHERE associate_experience > 8 
 GROUP BY ASSOCIATE_TRACK;
+
+SELECT training_duration DIV 60 AS Totalhours FROM   batch;

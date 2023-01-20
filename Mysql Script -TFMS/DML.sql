@@ -10,25 +10,37 @@ USE tfms;
 
 ------------- Trainer Table -------------
 
-INSERT INTO Trainer VALUES(101,'Trainer-1','Java','M-Tech',15);
-INSERT INTO Trainer VALUES(102,'Trainer-2','Dotnet','MCA',5);
-INSERT INTO Trainer VALUES(103,'Trainer-3','Dotnet','B-Tech',5);
-INSERT INTO Trainer VALUES(104,'Trainer-4','Dotnet','M.SC.IT',5);
+INSERT INTO Trainer VALUES('101','Trainer-1','Java','M-Tech','15');
+INSERT INTO Trainer VALUES('102','Trainer-2','Dotnet','MCA','12');
+INSERT INTO Trainer VALUES('103','Trainer-3','mainframe','B-Tech','18');
+INSERT INTO Trainer VALUES('104','Trainer-4','testing','M.SC.IT','25');
 
 
 SELECT * FROM trainer;
 
 ------------ Associate Table -------------
 
-INSERT INTO Associate VALUES(101,'Aakash','Java','M-Tech',5);
-INSERT INTO Associate VALUES(102,'krunal','Mainframe','M.sc',6);
-INSERT INTO Associate VALUES(103,'vasavi','Java','MCA',8);
-INSERT INTO Associate VALUES(104,'prathamesh','DotNet','B-Tech',7);
-INSERT INTO Associate VALUES(105,'Ankita','Java','M-Tech',10);
-INSERT INTO Associate VALUES(106,'Swaraj','Dotnet','MCA',12);
-INSERT INTO Associate VALUES(108,'Hemlata','Testing','B.tech',20);
+INSERT INTO Associate VALUES('101','Aakash','Java','M-Tech','5');
+INSERT INTO Associate VALUES('102','krunal','Mainframe','M.sc','6');
+INSERT INTO Associate VALUES('103','vasavi','testing','MCA','8');
+INSERT INTO Associate VALUES('104','prathamesh','DotNet','B-Tech','7');
+INSERT INTO Associate VALUES('105','Ankita','Java','M-Tech','10');
+INSERT INTO Associate VALUES('106','Swaraj','Mainframe','MCA','12');
+INSERT INTO Associate VALUES('107','ram','testing','MCA','12');
+INSERT INTO Associate VALUES('108','shriram','DotNet','B.tech','20');
+INSERT INTO Associate VALUES('109','veera','Java','M-Tech','12');
+INSERT INTO Associate VALUES('110','hemlata','Mainframe','M.sc','12');
+
+
+
 
 select * from Associate;
+
+---------------- login Table ---------
+INSERT INTO associate_login values("aakashsolanke","aakash@123","associate");
+INSERT INTO associate_login values("krnal","krunal@123","trainer");
+INSERT INTO associate_login values("swaraj","swaraj@123","admin");
+
 
 ----------------  Batch Table ---------
 
@@ -58,6 +70,13 @@ INSERT INTO capture_feedback VALUES(101, 102,'core-java ','Q 6','Environment','T
 INSERT INTO capture_feedback VALUES(102, 101,'Advance-java','Q 8','Job Impact','This training will improve your job performance.','Agree-4');
 INSERT INTO capture_feedback VALUES(103, 106,'Android 9.0','Q 3','Course Material','The course materials (presentation, hands-on,  etc.) referred during the training are relevant and useful.','Strongly Agree-5');
 
+---------------- Associate login ----------------------
+
+INSERT INTO associate_login values("aakash","aakash@123","associate");
+INSERT INTO associate_login values("krnal","krunal@123","trainer");
+INSERT INTO associate_login values("swaraj","swaraj@123","admin");
+
+-------------------------- --------------
 
 DELETE FROM `tfms`.`associate`
 WHERE Associate_id = 101 ;

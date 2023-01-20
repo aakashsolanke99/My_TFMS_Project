@@ -23,8 +23,8 @@ DESCRIBE mysql.user;
 
 SELECT * FROM mysql.user;
 
-DROP USER 'aakash'@'localhost';
-CREATE USER 'aakash'@'localhost';
+DROP USER 'aakash'@'localhost' ;
+CREATE USER 'aakash'@'localhost' IDENTIFIED BY 'pass@123';
 
 USE TFMS;
 
