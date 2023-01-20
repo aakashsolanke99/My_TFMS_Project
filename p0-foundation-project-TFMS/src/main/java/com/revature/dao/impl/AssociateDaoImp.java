@@ -44,7 +44,7 @@ public class AssociateDaoImp extends Associate implements AssociateDao{
 			do {
 			 Track=scString.nextLine().toUpperCase();
 			
-			if(Track.equals(AssociateTrack.JAVA.toString()) || Track.equals(AssociateTrack.MAINFRAME.toString()) || Track.equals(AssociateTrack.TEASTING.toString()) || Track.equals(AssociateTrack.DOTNET.toString()) ) {
+			if(Track.equals(AssociateTrack.JAVA.toString()) || Track.equals(AssociateTrack.MAINFRAME.toString()) || Track.equals(AssociateTrack.TESTING.toString()) || Track.equals(AssociateTrack.DOTNET.toString()) ) {
 			    count++;
 			}
 			else {

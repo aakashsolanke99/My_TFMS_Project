@@ -6,7 +6,7 @@ public class Constant {
 	public static final String PASSWORD="PASSWORD:-";
 	public static final String ASSOCIATENAME= "Enter Your Associate Name :- ";
 	public static final String ASSOCIATEID = "Enter Associate Id :- ";
-	public static final String ASSOCIATETRACK = "Enter Associate Track any one of this only (Java, Mainframe, Teasting, Dotnet):- ";
+	public static final String ASSOCIATETRACK = "Enter Associate Track any one of this only (Java, Mainframe, Testing, Dotnet):- ";
 	public static final String ASSOCIATEQUALIFICATION = "Enter Associate Qualification :- ";
 	public static final String ASSOCIATEEXPERIENCE = "Enter Associate Experience:-";
     public static final String MENU="*********** MENU ***********\n";
@@ -111,6 +111,9 @@ public class Constant {
 	public static final String INSERT_QUERY="INSERT INTO `tfms`.`associate` (`Associate_id`,`Associate_name`,`Associate_track`,`Associate_qualification`,`Associate_experience`) VALUES (?,?,?,?,?) ";
 	public static final String UPDATE_QUERY="UPDATE `tfms`.`associate` SET `PASSWORD`=? , `LAST_MODIFIED`=? WHERE `Associate_Id`=? ";
 	public static final String DELETE_QUERY="DELETE FROM `tfms`.`associate` WHERE `Associate_Id`=? ";
+	public static Object _3_Exit;
+	public static final String _3_EXIT = "           3.EXIT";
+
 
     
     }

@@ -5,10 +5,12 @@ import java.util.Scanner;
 
 import org.apache.log4j.Logger;
 
+import com.mysql.cj.protocol.x.SyncFlushDeflaterOutputStream;
 import com.revature.constant.Constant;
 import com.revature.service.impl.LoginImpl;
 
 public class Application {
+
 	private static final Logger logger= Logger.getLogger(Application.class);
 	
 	LoginImpl log=new LoginImpl();
@@ -26,25 +28,28 @@ public class Application {
 
 			 logger.info(Constant._1_REGISTER_NEW_USER);
 			 logger.info(Constant._2_LOGIN);
+			 System.out.println(Constant._3_EXIT);
 			 
 			 
 			 logger.info(Constant.ENTER_YOUR_CHOICE_1_2);
 			 int user = sc.nextInt();
 			 
-			 if(user==1) {
+			 switch(user) {
+			 case 1:
+				 log.associateRegistrstion();break;
+			 case 2:
+				 log.associateLogin();;break;
 				 
-				 log.associateRegistrstion();
+			 case 3:
+				return;
 				 
-			 }else if (user==2){
-				 
-				 log.associateLogin();
+			default: logger.info(Constant.ENTER_CORRECT_CHOICE_PLEASE); 
 				 
 			 }
-			 else {
-				 logger.info(Constant.ENTER_CORRECT_CHOICE_PLEASE);
-			 }
+
 			 logger.info(Constant.GO_TO_TFMS_PAGE_PRESS_1);
 			 user1= sc.nextInt();
+			
 		 }while(user1==1);
 		 
 	}
